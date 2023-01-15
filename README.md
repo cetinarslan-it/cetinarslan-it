@@ -9,7 +9,7 @@
 
 <hr/> 
  
-<h1 align="center"> 🧑‍💻 About Me </h1>
+<h1 align="center"> 🧑‍💻 About Me 🧑‍💻</h1>
 
 <p>I am a Full Stack C# .NET Developer with experience in both front-end and back-end development, as well as software testing. I am passionate about creating intuitive and user-friendly applications. In my previous roles, I have gained experience in testing and debugging software to ensure high quality. In addition to my technical skills, I am a strong team player with excellent communication skills. I am always looking to learn and grow as a developer and excited to take on new challenges.</p>
 
@@ -17,7 +17,7 @@
 
 <hr/> 
  
-<h1 align="center"> 🚀 Skills </h1>
+<h1 align="center"> 🚀 Skills 🚀 </h1>
  
 ### C# | ASP.Net MVC | ASP.Net Web API | Entity Framework | Razor Pages | JavaScript | TypeScript | React.js | CSS3 | HTML5 | Bootstrap | MUI | SASS | Node.js | SQL | Jenkins | Docker | Azure | Netlify | Jira  | Git  | GitHub  | Agile  | Visual Studio/VS Code | Java | Eclipse | IntelliJ | Selenium | Postman | Management | Leadership
 
@@ -54,7 +54,7 @@
 
 <hr/>
 
-<h1 align="center"> 📈 Statistics </h1>
+<h1 align="center"> 📈 Statistics 📈</h1>
 
 <p align="left">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cetinarslan-it&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="my github stats" width="49%"/>&nbsp;
