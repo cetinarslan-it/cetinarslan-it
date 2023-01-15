@@ -60,6 +60,6 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cetinarslan-it&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cetinarslan-it&theme=chartreuse-dark&show_icons=true&&include_all_commits=true&count_private=true" alt="my commit status" width="49%" /> </p>
 <br/>
-<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cetinarslan-it&theme=chartreuse-dark&langs_count=2" alt="languages" width="50%" height="50%"> </p>
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cetinarslan-it&theme=chartreuse-dark" alt="languages" width="50%" height="50%"> </p>
 
 
