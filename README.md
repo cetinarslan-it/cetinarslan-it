@@ -16,7 +16,7 @@
  
 <h1 align="center"> About Me </h1>
 
-<p>I am a <b><em>Full Stack C# .NET Developer</em></b> with experience in both front-end and back-end development, as well as software testing. I am passionate about creating intuitive and user-friendly applications. In my previous roles, I have gained experience in testing and debugging software to ensure high quality. In addition to my technical skills, I am a strong team player with excellent communication skills. I am always looking to learn and grow as a developer and excited to take on new challenges.</p>
+<h2 align="center">I am a <b><em>Full Stack C# .NET Developer</em></b> with experience in both front-end and back-end development, as well as software testing. I am passionate about creating intuitive and user-friendly applications. In my previous roles, I have gained experience in testing and debugging software to ensure high quality. In addition to my technical skills, I am a strong team player with excellent communication skills. I am always looking to learn and grow as a developer and excited to take on new challenges.</h2>
 
 <br/>  
 
@@ -24,11 +24,11 @@
  
 <h1 align="center"> Skills </h1>
  
-### C# | ASP.Net MVC | ASP.Net Web API | Entity Framework | Razor Pages | JavaScript | TypeScript | React.js | CSS3 | HTML5 | Bootstrap | MUI | SASS | Node.js | SQL | Jenkins | Docker | Azure | Netlify | Jira  | Git  | GitHub  | Agile  | Visual Studio/VS Code | Java | Eclipse | IntelliJ | Selenium | Postman | Management | Leadership
+<h2 align="center"> C# | ASP.Net MVC | ASP.Net Web API | Entity Framework | Razor Pages | JavaScript | TypeScript | React.js | CSS3 | HTML5 | Bootstrap | MUI | SASS | Node.js | SQL | Jenkins | Docker | Azure | Netlify | Jira  | Git  | GitHub  | Agile  | Visual Studio/VS Code | Java | Eclipse | IntelliJ | Selenium | Postman | Management | Leadership <h2/>
 
 <br/>  
 
-<div>
+<div align="center">
  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".Net"  height="48"/>
  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" height="48"/>
  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js"  height="48"/>
