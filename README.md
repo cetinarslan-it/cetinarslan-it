@@ -59,12 +59,6 @@
 
 <hr/>
 
-# My followers
- <!--START_SECTION:top-followers--> 
- <!--END_SECTION:top-followers-->
-
-<hr/>
-
 <h1 align="center">Statistics</h1>
 
 <div align="center">
