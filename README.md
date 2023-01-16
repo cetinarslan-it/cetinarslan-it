@@ -1,13 +1,16 @@
-<p align="center">
- <a href="https://github.com/cetinarslan-it/network/members"><img src="https://img.shields.io/github/forks/cetinarslan-it/cetinarslan-it?color=00C4CE" alt="Forks Badge" height="20"/></a>  
- <a href="https://github.com/cetinarslan-it/cetinarslan-it/pulls"><img src="https://img.shields.io/github/issues-pr/cetinarslan-it/cetinarslan-it?color=00C4CE" alt="Pull Requests Badge" height="20"/></a>
- <a href="https://github.com/cetinarslan-it/cetinarslan-it/issues"><img src="https://img.shields.io/github/issues/cetinarslan-it/cetinarslan-it?color=00C4CE" alt="Issues Badge" height="20"/></a>
- <a href="https://github.com/cetinarslan-it/cetinarslan-it/graphs/contributors"><img src="https://img.shields.io/github/contributors/cetinarslan-it/cetinarslan-it?color=00C4CE" alt="GitHub contributors" height="20"></a>     
-</p>
+<div align="center">
+ <a href="https://github.com/cetinarslan-it/network/members"><img src="https://img.shields.io/github/forks/cetinarslan-it/cetinarslan-it?color=00C4CE" alt="Forks Badge" height="30"/></a>  
+ <a href="https://github.com/cetinarslan-it/cetinarslan-it/pulls"><img src="https://img.shields.io/github/issues-pr/cetinarslan-it/cetinarslan-it?color=00C4CE" alt="Pull Requests Badge" height="30"/></a>
+ <a href="https://github.com/cetinarslan-it/cetinarslan-it/issues"><img src="https://img.shields.io/github/issues/cetinarslan-it/cetinarslan-it?color=00C4CE" alt="Issues Badge" height="30"/></a>
+ <a href="https://github.com/cetinarslan-it/cetinarslan-it/graphs/contributors"><img src="https://img.shields.io/github/contributors/cetinarslan-it/cetinarslan-it?color=00C4CE" alt="GitHub contributors" height="30"></a>     
+</div>
 
-<h1 align="center"> Hello! <br/> My name is Cetin. <br/>Welcome to my github account! <br/>  </a> <img src="https://komarev.com/ghpvc/?username=isim" alt="visitor counter" width="15%"/></h1>
+<h1 align="center" width="120" height="30" > Hello! <br/> My name is Cetin. <br/> Welcome to my github account! <br/> </a> <br/> <div><img src="https://komarev.com/ghpvc/?username=cetinarslan-it&label=Profile%20views&color=129e00&style=plastic" height="30" alt="visitor counter"/>
+</div></h1>
 
-<p align="center"><img src="https://github.com/cetinarslan-it/cetinarslan-it/blob/output/github-contribution-grid-snake.svg"/></p>
+<div align="center">
+ <img src="https://github.com/cetinarslan-it/cetinarslan-it/blob/output/github-contribution-grid-snake.svg"/>
+</div>
 
 <hr/> 
  
@@ -25,7 +28,7 @@
 
 <br/>  
 
-<p>
+<div>
  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".Net"  height="48"/>
  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" height="48"/>
  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js"  height="48"/>
@@ -52,7 +55,7 @@
  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_netlify_icon_130354.png" alt ="netlify" height="48"/>
  <img src="https://pics.freeicons.io/uploads/icons/png/15484977381551942825-512.png" alt ="selenium" height="48"/>
  <img src="https://cdn.pixabay.com/photo/2013/09/18/12/13/sqlite-183454__340.png" alt ="sqlite" height="48"/>
-</p>
+</div>
 
 <hr/>
 
@@ -64,8 +67,8 @@
 
 <h1 align="center">Statistics</h1>
 
-<p align="left">
+<div align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cetinarslan-it&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cetinarslan-it&theme=chartreuse-dark&show_icons=true&&include_all_commits=true&count_private=true" alt="my commit status" width="49%" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cetinarslan-it&theme=chartreuse-dark&show_icons=true&&include_all_commits=true&count_private=true" alt="my commit status" width="49%" /></div>
 <br/>
-<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cetinarslan-it&theme=chartreuse-dark" alt="languages" width="50%" height="50%"> </p>
+<div align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cetinarslan-it&theme=chartreuse-dark" alt="languages" width="50%" height="50%"> </div>
