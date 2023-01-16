@@ -56,7 +56,7 @@
 
 <hr/>
 
-<h1 align="center"> 📈 Statistics 📈</h1>
+<h1 align="center">Statistics</h1>
 
 <p align="left">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cetinarslan-it&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="my github stats" width="49%"/>&nbsp;
