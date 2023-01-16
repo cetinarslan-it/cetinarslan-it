@@ -5,20 +5,13 @@
  <a href="https://github.com/cetinarslan-it/cetinarslan-it/graphs/contributors"><img src="https://img.shields.io/github/contributors/cetinarslan-it/cetinarslan-it?color=00C4CE" alt="GitHub contributors" height="20"></a>     
 </p>
 
-
-
-![snake svg](https://github.com/MustafaBozkurt84/MustafaBozkurt84/blob/output/github-contribution-grid-snake.svg)
-
-   
 <h1 align="center"> Hello! <br/> My name is Cetin. <br/>Welcome to my github account! <br/>  </a> <img src="https://komarev.com/ghpvc/?username=isim" alt="visitor counter" width="15%"/></h1>
 
-<p align="center"><img src="https://github.com/cetinarslan-it/cetinarslan-it/blob/output/github-contribution-grid-snake.svg"/></p>
-
-![snake svg](https://github.com/cetinarslan-it/cetinarslan-it/blob/output/github-contribution-grid-snake.svg)
+<p align="center"><img src="https://github.com/MustafaBozkurt84/MustafaBozkurt84/blob/output/github-contribution-grid-snake.svg"/></p>
 
 <hr/> 
  
-<h1 align="center"> 🧑‍💻 About Me 🧑‍💻</h1>
+<h1 align="center"> About Me </h1>
 
 <p>I am a <b><em>Full Stack C# .NET Developer</em></b> with experience in both front-end and back-end development, as well as software testing. I am passionate about creating intuitive and user-friendly applications. In my previous roles, I have gained experience in testing and debugging software to ensure high quality. In addition to my technical skills, I am a strong team player with excellent communication skills. I am always looking to learn and grow as a developer and excited to take on new challenges.</p>
 
@@ -26,7 +19,7 @@
 
 <hr/> 
  
-<h1 align="center"> 🚀 Skills 🚀 </h1>
+<h1 align="center"> Skills </h1>
  
 ### C# | ASP.Net MVC | ASP.Net Web API | Entity Framework | Razor Pages | JavaScript | TypeScript | React.js | CSS3 | HTML5 | Bootstrap | MUI | SASS | Node.js | SQL | Jenkins | Docker | Azure | Netlify | Jira  | Git  | GitHub  | Agile  | Visual Studio/VS Code | Java | Eclipse | IntelliJ | Selenium | Postman | Management | Leadership
 
