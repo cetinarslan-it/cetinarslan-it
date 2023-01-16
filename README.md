@@ -8,7 +8,7 @@
    
 <h1 align="center"> Hello! <br/> My name is Cetin. <br/>Welcome to my github account! <br/>  </a> <img src="https://komarev.com/ghpvc/?username=isim" alt="visitor counter" width="15%"/></h1>
 
-<p align="center"><img src="https://github.com/MustafaBozkurt84/MustafaBozkurt84/blob/output/github-contribution-grid-snake.svg"/></p>
+<p align="center"><img src="https://github.com/cetinarslan-it/cetinarslan-it/blob/output/github-contribution-grid-snake.svg"/></p>
 
 <hr/> 
  
