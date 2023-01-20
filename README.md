@@ -5,7 +5,7 @@
  <a href="https://github.com/cetinarslan-it/cetinarslan-it/graphs/contributors"><img src="https://img.shields.io/github/contributors/cetinarslan-it/cetinarslan-it?color=00C4CE" alt="GitHub contributors" height="30"></a>     
 </div>
 
-<h1 align="center" width="120" height="30" > Hello! <br/> My name is Cetin. <br/> Welcome to my github account! <br/> </a> <br/> <div><img src="https://komarev.com/ghpvc/?username=cetinarslan-it&label=Profile%20views&color=129e00&style=plastic" height="30" alt="visitor counter"/>
+<h1 align="center" width="120" height="30" > Hello! <br/> My name is Cetin. <br/> Welcome to my page! <br/> </a> <br/> <div><img src="https://komarev.com/ghpvc/?username=cetinarslan-it&label=Profile%20views&color=129e00&style=plastic" height="30" alt="visitor counter"/>
 </div></h1>
 
 <div align="center">
