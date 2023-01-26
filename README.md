@@ -1,12 +1,9 @@
-<div align="center">
- <a href="https://github.com/cetinarslan-it/network/members"><img src="https://img.shields.io/github/forks/cetinarslan-it/cetinarslan-it?color=00C4CE" alt="Forks Badge" height="30"/></a>  
- <a href="https://github.com/cetinarslan-it/cetinarslan-it/pulls"><img src="https://img.shields.io/github/issues-pr/cetinarslan-it/cetinarslan-it?color=00C4CE" alt="Pull Requests Badge" height="30"/></a>
- <a href="https://github.com/cetinarslan-it/cetinarslan-it/issues"><img src="https://img.shields.io/github/issues/cetinarslan-it/cetinarslan-it?color=00C4CE" alt="Issues Badge" height="30"/></a>
- <a href="https://github.com/cetinarslan-it/cetinarslan-it/graphs/contributors"><img src="https://img.shields.io/github/contributors/cetinarslan-it/cetinarslan-it?color=00C4CE" alt="GitHub contributors" height="30"></a>     
+<div align="center"><img src="https://komarev.com/ghpvc/?username=cetinarslan-it&label=Profile%20views&color=129e00&style=plastic" height="30" alt="visitor counter"/>
 </div>
 
-<h1 align="center" width="120" height="30" > Hello! <br/> My name is Cetin. <br/> Welcome to my page! <br/> </a> <br/> <div><img src="https://komarev.com/ghpvc/?username=cetinarslan-it&label=Profile%20views&color=129e00&style=plastic" height="30" alt="visitor counter"/>
-</div></h1>
+<h1 align="center" width="120" height="30" >  
+ Hello! <br/> My name is Cetin. <br/> Welcome to my page! <br/>  
+</h1>
 
 <div align="center">
  <img src="https://github.com/cetinarslan-it/cetinarslan-it/blob/output/github-contribution-grid-snake.svg"/>
@@ -62,7 +59,16 @@
 <h1 align="center">Statistics</h1>
 
 <div align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cetinarslan-it&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cetinarslan-it&theme=chartreuse-dark&show_icons=true&&include_all_commits=true&count_private=true" alt="my commit status" width="49%" /></div>
-<br/>
-<div align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cetinarslan-it&theme=chartreuse-dark" alt="languages" width="50%" height="50%"> </div>
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cetinarslan-it&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="my github stats" width="49%"/>&nbsp;
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=cetinarslan-it&theme=chartreuse-dark&show_icons=true&&include_all_commits=true&count_private=true" alt="my commit status" width="49%" />
+</div>
+ <br/>
+<div align="center"> 
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cetinarslan-it&theme=chartreuse-dark" alt="languages" width="50%" height="50%"> </div>
+ 
+<div align="center">
+ <a href="https://github.com/cetinarslan-it/network/members"><img src="https://img.shields.io/github/forks/cetinarslan-it/cetinarslan-it?color=00C4CE" alt="Forks Badge" height="30"/></a>  
+ <a href="https://github.com/cetinarslan-it/cetinarslan-it/pulls"><img src="https://img.shields.io/github/issues-pr/cetinarslan-it/cetinarslan-it?color=00C4CE" alt="Pull Requests Badge" height="30"/></a>
+ <a href="https://github.com/cetinarslan-it/cetinarslan-it/issues"><img src="https://img.shields.io/github/issues/cetinarslan-it/cetinarslan-it?color=00C4CE" alt="Issues Badge" height="30"/></a>
+ <a href="https://github.com/cetinarslan-it/cetinarslan-it/graphs/contributors"><img src="https://img.shields.io/github/contributors/cetinarslan-it/cetinarslan-it?color=00C4CE" alt="GitHub contributors" height="30"></a>     
+</div>
