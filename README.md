@@ -21,7 +21,7 @@
  
 <h1 align="center"> Skills </h1>
  
-<h2 align="center"> C# | ASP.Net MVC | ASP.Net Web API | Entity Framework | Razor Pages | JavaScript | TypeScript | React.js | CSS3 | HTML5 | Bootstrap | MUI | SASS | Node.js | SQL | Jenkins | Docker | Azure | Netlify | Jira  | Git  | GitHub  | Agile  | Visual Studio/VS Code | Java | Eclipse | IntelliJ | Selenium | Postman | Management | Leadership <h2/>
+<h2 align="center"> C# | ASP.Net MVC | ASP.Net Web API | Entity Framework | Razor Pages | JavaScript | TypeScript | React.js | CSS3 | HTML5 | Bootstrap | MUI | SASS | Node.js | SQL | Jenkins | Docker | Azure | Netlify | Jira  | Git  | GitHub  | Cypress | Selenium | Agile  | Visual Studio/VS Code | Java | Eclipse | IntelliJ | Postman | Management | Leadership <h2/>
 
 <br/>  
 
@@ -39,6 +39,8 @@
  <img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png" alt="docker"  height="48"/> 
  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="c#"  height="48"/>
  <img src="https://cdn.icon-icons.com/icons2/159/PNG/256/java_22523.png" alt="java"  height="48"/> 
+ <img src="https://pics.freeicons.io/uploads/icons/png/15484977381551942825-512.png" alt ="selenium" height="48"/>
+ <img src="https://pics.freeicons.io/uploads/icons/png/3556671901536211770-512.png" alt ="cypress" height="48"/>
  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" alt="eclipse"  height="48"/>
  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png" alt="intellij"  height="48"/>
  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="postman"  height="48"/>
@@ -50,7 +52,6 @@
  <img src="https://user-images.githubusercontent.com/94930605/160260916-8472f064-1a1e-4689-99f8-be5f4d5eac56.png" alt="gitHub" height="48"/>
  <img src="https://cdn.pixabay.com/photo/2018/02/12/13/58/devops-3148393__340.png" alt ="scrum" height="48"/>
  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_netlify_icon_130354.png" alt ="netlify" height="48"/>
- <img src="https://pics.freeicons.io/uploads/icons/png/15484977381551942825-512.png" alt ="selenium" height="48"/>
  <img src="https://cdn.pixabay.com/photo/2013/09/18/12/13/sqlite-183454__340.png" alt ="sqlite" height="48"/>
 </div>
 
