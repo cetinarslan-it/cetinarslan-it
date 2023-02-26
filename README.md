@@ -60,12 +60,12 @@
 <h1 align="center">Statistics</h1>
 
 <div align="center">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cetinarslan-it&theme=chartreuse-dark&show_icons=trueinclude_all_commits=true" alt="my github stats" width="49%"/>&nbsp;
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=cetinarslan-it&theme=chartreuse-dark&show_icons=true&include_all_commits=true" alt="my commit status" width="49%" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cetinarslan-it&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true" alt="my github stats" width="49%"/>&nbsp;
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=cetinarslan-it&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true" alt="my commit status" width="49%" />
 </div>
  <br/>
 <div align="center"> 
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cetinarslan-it&theme=chartreuse-dark" alt="languages" width="50%" height="50%"> </div>
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cetinarslan-it&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="languages" width="49%"> </div>
  
 <div align="center">
  <a href="https://github.com/cetinarslan-it/network/members"><img src="https://img.shields.io/github/forks/cetinarslan-it/cetinarslan-it?color=00C4CE" alt="Forks Badge" height="30"/></a>  
