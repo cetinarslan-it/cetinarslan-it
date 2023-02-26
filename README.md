@@ -60,7 +60,7 @@
 <h1 align="center">Statistics</h1>
 
 <div align="center">
-
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cetinarslan-it&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="my github stats" width="49%"/>&nbsp;
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cetinarslan-it&theme=chartreuse-dark&show_icons=true&&include_all_commits=true&count_private=true" alt="my commit status" width="49%" />
 </div>
  <br/>
