@@ -60,8 +60,8 @@
 <h1 align="center">Statistics</h1>
 
 <div align="center">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cetinarslan-it&theme=chartreuse-dark&show_icons=true&include_all_commits=false&count_private=true" alt="my github stats" width="48%"/>&nbsp; &nbsp;
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=cetinarslan-it&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=false" alt="my commit status" width="48%" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cetinarslan-it&theme=chartreuse-dark&show_icons=true&include_all_commits=false&count_private=true" alt="my github stats" width="49%"/>&nbsp;
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=cetinarslan-it&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=false" alt="my commit status" width="49%" />
 </div>
  <br/>
 <div align="center"> 
