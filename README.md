@@ -65,7 +65,7 @@
 </div>
  <br/>
 <div align="center"> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cetinarslan-it&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="languages" width="49%"> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cetinarslan-it&langs_count=6&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="languages" width="49%"> 
 </div>
 <br>
  
