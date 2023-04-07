@@ -13,8 +13,12 @@
  
 <h1 align="center"> About </h1>
 
-<h2 align="center">I am a <b><em>Full Stack C# .NET Developer</em></b> with experience in both front-end and back-end development, as well as software testing. I am passionate about creating intuitive and user-friendly applications. In my previous roles, I have gained experience in testing and debugging software to ensure high quality. In addition to my technical skills, I am a strong team player with excellent communication skills. I am always looking to learn and grow as a developer and excited to take on new challenges.</h2>
+<h2 align="center">
+ 
+I am a <b><em>Full Stack C# .NET Developer</em></b> and <b><em>Automation Tester<b><em> with experience in both front and back-end development, as well as manual and automation testing. <br /> <br /> I am passionate about creating intuitive and user-friendly applications.  <br />  <br /> In my previous roles, as an Automation Tester, I have gained experience in functional testing and debugging software to ensure high quality. <br />  <br /> In addition to my technical skills, I am a strong team player with excellent communication skills. <br />  <br /> I am always looking to learn and grow as a software engineer and excited to take on new challenges.
 
+</h2>
+ 
 <br/>  
 
 <hr/> 
