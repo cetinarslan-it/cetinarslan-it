@@ -11,11 +11,11 @@
 
 <hr/> 
  
-<h1 align="center"> About </h1>
+<em><h1 align="center"> About </h1></em> 
 
 <h2 align="center">
  
-I am a <b><em>Full Stack C# .NET Developer</em></b> and <b><em>Automation Tester<b><em> with experience in both front and back-end development, as well as manual and automation testing. <br /> <br /> I am passionate about creating intuitive and user-friendly applications.  <br />  <br /> In my previous roles, as an Automation Tester, I have gained experience in functional testing and debugging software to ensure high quality. <br />  <br /> In addition to my technical skills, I am a strong team player with excellent communication skills. <br />  <br /> I am always looking to learn and grow as a software engineer and excited to take on new challenges.
+<b><em> I am a Full Stack C# .NET Developer and Automation Tester with experience in both front and back-end development, as well as manual and automation testing. <br /> <br /> I am passionate about creating intuitive and user-friendly applications.  <br />  <br /> In my previous roles, as an Automation Tester, I have gained experience in functional testing and debugging software to ensure high quality. <br />  <br /> In addition to my technical skills, I am a strong team player with excellent communication skills. <br />  <br /> I am always looking to learn and grow as a software engineer and excited to take on new challenges.</b></em> 
 
 </h2>
  
@@ -23,7 +23,7 @@ I am a <b><em>Full Stack C# .NET Developer</em></b> and <b><em>Automation Tester
 
 <hr/> 
  
-<h1 align="center"> Skills </h1>
+<em><h1 align="center"> Skills </h1></em>
  
 <h2 align="center"> C# | ASP.Net MVC | ASP.Net Web API | Entity Framework | Razor Pages | JavaScript | TypeScript | React.js | CSS3 | HTML5 | Bootstrap | MUI | SASS | Node.js | SQL | Jenkins | Docker | Azure | Netlify | Jira  | Git  | GitHub  | Cypress | Selenium | Agile  | Visual Studio/VS Code | Java | Eclipse | IntelliJ | Postman | Management | Leadership <h2/>
 
@@ -61,7 +61,7 @@ I am a <b><em>Full Stack C# .NET Developer</em></b> and <b><em>Automation Tester
 
 <hr/>
 
-<h1 align="center">Statistics</h1>
+<em><h1 align="center">Statistics</h1></em>
 
 <div align="center">
  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cetinarslan-it&theme=chartreuse-dark&show_icons=true&include_all_commits=false&count_private=true" alt="my github stats" width="49%"/>&nbsp;
