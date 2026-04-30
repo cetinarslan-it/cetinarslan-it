@@ -15,7 +15,9 @@
 
 <h2 align="center">
  
-<b><em> I am a Full Stack C# .NET Developer and Automation Tester with experience in both front and back-end development, as well as manual and automation testing. <br /> <br /> I am passionate about creating intuitive and user-friendly applications.  <br />  <br /> In my previous roles, as an Automation Tester, I have gained experience in functional testing and debugging software to ensure high quality. <br />  <br /> In addition to my technical skills, I am a strong team player with excellent communication skills. <br />  <br /> I am always looking to learn and grow as a software engineer and excited to take on new challenges.</b></em> 
+<b><em>ISTQB certified Automation Tester and Full Stack .NET Developer with strong experience in banking systems, customer onboarding workflows, and financial applications. <br /> <br /> Proven background in system, end-to-end (E2E), regression, and exploratory testing, ensuring high-quality and reliable software in complex, data-driven environments. <br /> <br /> Experienced in testing and validating core banking processes, including AML (Anti-Money Laundering), KYC (Know Your Customer), and fraud detection systems, as well as API integrations and business rule engines supporting customer lifecycle and decision-making processes. <br /> <br />
+Strong technical background in Microsoft technologies (C#, .NET, Azure DevOps), combined with practical experience in Java-based test automation tools and a solid understanding of object-oriented programming and test design principles.<br /> <br /> Brings a solid foundation in quality assurance, compliance, and process evaluation, developed through earlier experience in inspection and audit roles, along with hands-on experience in software development and testing. <br /> <br /> Comfortable working in Agile/DevOps environments, collaborating with cross-functional teams to deliver reliable, high-quality solutions.</b></em> 
+
 
 </h2>
  
@@ -25,14 +27,18 @@
  
 <em><h1 align="center"> Skills </h1></em>
  
-<h2 align="center"> C# | ASP.Net MVC | ASP.Net Web API | Entity Framework | Razor Pages | JavaScript | TypeScript | React.js | CSS3 | HTML5 | Bootstrap | MUI | SASS | Node.js | SQL | Jenkins | Docker | Azure | Netlify | Jira  | Git  | GitHub  | Cypress | Selenium | Agile  | Visual Studio/VS Code | Java | Eclipse | IntelliJ | Postman | Management | Leadership <h2/>
+<h2 align="center"> C# | ASP.Net MVC | ASP.Net Web API | SSMS | SPLUNK | Entity Framework | Razor Pages | JavaScript | TypeScript | React.js | CSS3 | HTML5 | Bootstrap | MUI | SASS | Node.js | SQL | Jenkins | Docker | Azure | Netlify | Jira  | Git  | GitHub  | Cypress | Selenium | Agile  | Visual Studio/VS Code | Java | Eclipse | IntelliJ | Maven | Selenium | PlayWright | JDBC | Postman | Management | Leadership <h2/>
 
 <br/>  
 
 <div align="center">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="48"/>
  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".Net"  height="48"/>
  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" height="48"/>
  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js"  height="48"/>
+ <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="Splunk"  height="48"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server / SSMS" height="48"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" height="48"/>
  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_azure_logo_icon_170956.png" alt="azure"  height="48"/> 
  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_macos_bigsur_icon_189958.png" alt="visual-studio"  height="48"/> 
  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189956.png" alt="vs-code"  height="48"/>
